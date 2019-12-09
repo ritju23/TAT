@@ -112,6 +112,10 @@ BUTTON SETTING
 .bolder {
   font-weight: 600; }
 
+  p {
+		font-size: 20px;
+		font-family: 'Cormorant Garamond', serif;
+    }
 .cfix {
   content: '';
   display: block;
@@ -639,7 +643,7 @@ ul {
 .subheading {
   margin-top: -20px;
   margin-bottom: 30px;
-  color: #b89b5e;
+  color: #223555;
   font-family: "Lora", serif;
   font-style: italic;
   font-size: 16px; }
@@ -1273,7 +1277,7 @@ ICON 2
   margin-bottom: 15px;
   text-align: center;
   padding: 20px;
-  border: 1px solid rgba(153, 153, 153, 0.1);
+  border: 1px solid rgba(41, 40, 40, 0.1);
   height: 100%; }
   .box-icon-1 .icon {
     color: #b89b5e;
@@ -1286,7 +1290,7 @@ ICON 2
     font-weight: 700;
     color: #222222; }
   .box-icon-1:hover {
-    background-color: rgba(20, 233, 20, 0.233); }
+    background-color: #223555; }
 
 .rs-icon-info {
   margin-bottom: 15px; }
@@ -2605,7 +2609,7 @@ Back To Top Section
 /* 4.1 - NAVBAR */
 .topbar {
   background-color: #223555;
-  color: #b89b5e;
+  color: #ffffff;
   font-family: "Lora", serif; }
   .topbar .row {
     min-height: 40px; }
@@ -2618,12 +2622,12 @@ Back To Top Section
     margin-right: 7px;
     font-size: 18px; }
   .topbar .sosmed-icon a {
-    color: #b89b5e; }
+    color: #ffffff; }
     .topbar .sosmed-icon a:hover {
       color: #223555;
-      background-color: #b89b5e; }
+      background-color: #ffffff; }
   .topbar a {
-    color: #b89b5e; }
+    color: #ffffff; }
     .topbar a:hover {
       color: #223555; }
 
